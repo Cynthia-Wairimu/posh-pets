@@ -16,7 +16,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/form.css" />
   </head>
   <body>
     
@@ -36,6 +36,7 @@
                     class="form-control"
                     id="exampleInputName1"
                     placeholder="Name"
+                    required
                   />
                 </div>
                 <br />
@@ -47,6 +48,7 @@
                     id="exampleInputEmail1"
                     aria-describedby="emailHelp"
                     placeholder="Enter email"
+                    required
                   />
                 </div>
                 <br />
@@ -59,7 +61,9 @@
                     class="form-control datepicker"
                     id="exampleInputName2"
                     data-date-format="mm/dd/yyyy"
+                    required
                   />
+                  
                 </div>
                 <br />
                 <div class="form-group">
@@ -71,11 +75,12 @@
                     type="time"
                     class="form-control"
                     id="exampleInputName3"
+                    required
                   />
                 </div>
                 <br /><br />
                 <div class="form-group">
-                  <select class="form-select" id="exampleSelect1">
+                  <select class="form-select" id="exampleSelect1" >
                     <option>Select a Service</option>
                     <option>Pet Sitting</option>
                     <option>Pet Walking</option>
@@ -83,11 +88,23 @@
                     <option>Pet Grooming</option>
                   </select>
                 </div>
+                <br><br>
+                <div class="form-group">
+                  <input
+                    type="number"
+                    class="form-control"
+                    id="exampleInputName4"
+                    placeholder="Number of Hours with Pet"
+                    maxlength="3"
+                    required
+                  />
+                </div>
                 <br /><br />
                 <button type="submit" class="btn btn-dark" id="btn-submit">
                   Book Now
                 </button>
               </fieldset>
+              <br> <p id="appointment"></p>
             </form>
             <br />
           </div>
@@ -176,5 +193,5 @@
       crossorigin="anonymous"
     ></script>
     <script src="./js/scripts.js"></script>
-  </body>
+ </body>
 </html>
