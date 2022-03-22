@@ -1,0 +1,66 @@
+/* FORM START */
+#form-div {
+  background-color: #fca625;
+  padding: 4%;
+  padding-top: 11%;
+}
+#on-vacation-h6 {
+  color: #26945f;
+  position: absolute;
+  width: 283px;
+  height: 35px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+}
+#booking-p {
+  position: absolute;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  height: 60px;
+}
+#your-pet,
+#book-h1 {
+  position: absolute;
+  width: 552px;
+  height: 68px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 75px;
+}
+#your-pet {
+  color: #fca625;
+}
+#exampleInputName1,
+#exampleInputEmail1,
+#exampleInputName2,
+#exampleInputName3,
+#exampleInputName4,
+#exampleSelect1,
+#btn-submit {
+  width: 400px;
+  padding: 3%;
+}
+#form-services-div {
+  padding: 4%;
+  background-color: #e5e5e5;
+}
+#sit,
+#walk,
+#board,
+#groom {
+  padding: 3%;
+  text-align: center;
+  font-size: smaller;
+}
+
+/* FORM END */
