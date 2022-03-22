@@ -2,7 +2,6 @@
  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito:ital@1&family=Prata&family=Source+Sans+Pro:ital,wght@1,600&display=swap');
 .about{
   color: #26945F;
-  text-transform: uppercase;
 }
 .section-a{
   color: #26945F;
@@ -15,5 +14,10 @@
   font-weight: 300;
   line-height: 1.2;
   font-family: 'Nunito', sans-serif;
+}
+@media (max-width: 1200px) {
+  .display-4 {
+    font-size: calc(1.475rem + 2.7vw) ;
+  }
 }
 /* about us end */
