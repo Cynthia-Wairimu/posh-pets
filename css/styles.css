@@ -1,0 +1,18 @@
+/* about us start */
+.about{
+  color: #26945F;
+  text-transform: uppercase;
+}
+.section-a{
+  color: #26945F;
+}
+.section-b{
+  color: #FCA625;
+}
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  font-family: 'Nunito', sans-serif;
+}
+/* about us end */
