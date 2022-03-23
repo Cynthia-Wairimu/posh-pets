@@ -1,4 +1,15 @@
+ 
+ #topbar1{
+   margin-left: 60%;
+   margin-top: 1%;
+ }
+ 
  /* navbar start */
+
+#nav1{
+margin-left: -1%;
+}
+
  .navbar {
     position: relative;
     display: flex;
@@ -61,6 +72,10 @@
         color: #000;
         zoom: 180%;
     }
+    #h3{
+      margin-top: -20%;
+
+    }
         /* #cat, #dog1, #dog2{
         height: 700px;
         opacity: 0.9;
@@ -71,12 +86,15 @@
         } */
     
     /*landing page end */
-
+    
+#carousel-div{
+    background-color: #e5e5e5;
+  }
     /* Form start */
 #form-div {
     background-color: #fca625;
-    padding: 8%;
-    padding-top: 4%;
+    padding: 7%;
+    padding-top: 3%;
   }
   #on-vacation-h6 {
     color: #26945f;
@@ -139,27 +157,37 @@
   
   /* Form end */
 
+  /* services start */
+section#services a {
+  text-decoration: none;
+}
+/* services end */
 
   /* About us start */
- @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito:ital@1&family=Prata&family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+ /* @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito:ital@1&family=Prata&family=Source+Sans+Pro:ital,wght@1,600&display=swap');
  .about{
    color: #26945F;
- }
- .section-a{
+ } */
+ /* .section-a{
    color: #26945F;
  }
  .section-b{
    color: #FCA625;
- }
+ } */
  .display-4 {
    font-size: 3.5rem;
-   font-weight: 300;
+   font-weight: 500;
    line-height: 1.2;
-   font-family: 'Nunito', sans-serif;
- }
+   /* font-family: 'Nunito', sans-serif;
+ } */
+}
  @media (max-width: 1200px) {
    .display-4 {
      font-size: calc(1.475rem + 2.7vw) ;
    }
  }
  /* About us end */
+
+ #intouch {
+  padding-left: 14%;
+}
