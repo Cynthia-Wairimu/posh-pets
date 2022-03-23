@@ -24,7 +24,7 @@ This is a web application exercise that is intended to help pet owners  reach se
 if you have any concerns or questions, please feel free to contact me or make a contribution to the code. my email is wairimucee@gmail.com. 
 
 ## Link to GitHub pages
-https://cynthia-wairimu.github.io/Delani-Studio/
+
 
 ### License
 *MIT licensing.*

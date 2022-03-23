@@ -1,7 +1,8 @@
-*{
+/* landing page start */
+/* *{
     margin: 0%;
     padding: 0%;
-    }
+    } */
     
     #cat-h5, #dog1-h5, #dog2-h5{
     zoom: 300%;
@@ -17,15 +18,55 @@
     color: #000;
     zoom: 180%;
 }
-
-
-    #cat, #dog1, #dog2{
+    /* #cat, #dog1, #dog2{
     height: 700px;
     opacity: 0.9;
-    }
+    } */
 
-    span{
+    /* span{
         color: #000;
+    } */
+
+/*landing page end */
+
+ /* navbar start */
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    /* padding: 0.5rem 1rem; */
+  }
+  .navbar-nav{
+    display: flex;
+    /* padding: 10%; */
+    margin: 1.5%;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    align-items: center;
+    flex-direction: column;
+  }
+  .mr-auto, .mx-auto{
+    margin-right: auto;
+  }
+  .nav-item:hover{
+    background: #FCA625;
+  }
+  .section-c{
+    color: #FCA625;
+  }
+  .display-5{
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: 'Poppins', sans-serif;
+  
+  }
+  @media(min-width:992px){
+    .navbar-expand-lg, .navbar-collapse{
+      display: flex;
+      flex-basis: auto;
     }
-    
-    
+  }
+  /* navbar end */   
