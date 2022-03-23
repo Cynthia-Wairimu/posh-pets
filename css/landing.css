@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+    
+    #cat-h5, #dog1-h5, #dog2-h5{
+    zoom: 300%;
+    top: 0%;
+    bottom: auto;
+}
+
+#dog2-h5{
+    color: #000;
+    zoom: 200%;
+}
+#dog1-h5{
+    color: #000;
+    zoom: 180%;
+}
+
+
+    #cat, #dog1, #dog2{
+    height: 700px;
+    opacity: 0.9;
+    }
+
+    span{
+        color: #000;
+    }
+    
+    
