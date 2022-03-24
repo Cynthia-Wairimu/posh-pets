@@ -23,7 +23,7 @@ margin-left: -1%;
     /* padding: 10%; */
     margin: 1.5%;
     font-size: 1.5rem;
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
     align-items: center;
     flex-direction: column;
   }
@@ -40,8 +40,8 @@ margin-left: -1%;
     font-size: 3.5rem;
     font-weight: 300;
     line-height: 1.2;
-    font-family: 'Poppins', sans-serif;
-  
+    /* font-family: 'Poppins', sans-serif;
+   */
   }
   @media(min-width:992px){
     .navbar-expand-lg, .navbar-collapse{
@@ -188,6 +188,6 @@ section#services a {
  }
  /* About us end */
 
- #intouch {
-  padding-left: 14%;
+ #intouch, #links {
+  padding-left: 20%;
 }
