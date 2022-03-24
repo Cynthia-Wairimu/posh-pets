@@ -1,6 +1,6 @@
 ## Posh pets Website.
 A pet-care services website that targets pet owners who barely have time to properly care for their pets offering services such as pet sitting, dog walking, grooming services, and overnight care, at a fee.{22/03/2020}
-#### By **Cynthia Wairimu**
+#### By **Cynthia Wairimu** **Linet Mutheu** **Joyce Njoroge** **Brian Juma** **Mercy Akuku** **Tessy Otieno**
 ## Description
 This is a web application exercise that is intended to help pet owners  reach services for their pets.
 ## Setup/Installation Requirements
@@ -14,7 +14,7 @@ This is a web application exercise that is intended to help pet owners  reach se
 * Add a README.md file
 * Add a LICENSE file (MIT)
 * Commit changes at every step.
-## Techonoligies used
+## Technologies used
 * HTML
 * CSS
 * JavaScript
