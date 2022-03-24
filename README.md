@@ -14,7 +14,7 @@ This is a web application exercise that is intended to help pet owners  reach se
 * Add a README.md file
 * Add a LICENSE file (MIT)
 * Commit changes at every step.
-## Techonoligies used
+## Technologies used
 * HTML
 * CSS
 * JavaScript
