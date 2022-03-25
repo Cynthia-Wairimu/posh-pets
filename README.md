@@ -1,13 +1,19 @@
 ## Posh pets Website.
 A pet-care services website that targets pet owners who barely have time to properly care for their pets offering services such as pet sitting, dog walking, grooming services, and overnight care, at a fee.{22/03/2020}
-#### By **Cynthia Wairimu**
+#### By 
+* Cynthia Wairimu 
+* Linet Mutheu  
+* Joyce Njoroge 
+* Brian Juma
+* Mercy Akuku
+* Tessy Otieno
 ## Description
-This is a web application exercise that is intended to help pet owners  reach services for their pets.
+This is a web application exercise that is intended to help pet owners reach pet care services for their pets.
 ## Setup/Installation Requirements
 * Create a portfolio directory/ folder then initialize git in the terminal
 * In the new directory create an index.html file.
-* Create a CSS folder in the delani directory then create a styles.css file in the same folder.
-* Create a JS folder in the delani directory then create a scripts.js file in the same folder.
+* Create a CSS folder in the posh-pets directory then create a styles.css file in the same folder.
+* Create a JS folder in the posh-pets directory then create a scripts.js file in the same folder.
 * link CSS to HTML file.
 * link Bootstrap to HTML file.
 * link JS to HTML file
@@ -21,14 +27,14 @@ This is a web application exercise that is intended to help pet owners  reach se
 * Bootstrap
 * Jquery
 ## Support and contact details
-if you have any concerns or questions, please feel free to contact me or make a contribution to the code. my email is wairimucee@gmail.com. 
+if you have any concerns or questions, please feel free to contact me or make a contribution to the code. my email is info@poshpets.com 
 
 ## Link to GitHub pages
-https://cynthia-wairimu.github.io/Delani-Studio/
+https://cynthia-wairimu.github.io/posh-pets/
 
 ### License
 *MIT licensing.*
-Copyright (c) 2022 **Cynthia Wairimu**
+Copyright (c) 2022 **PoshPets**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
